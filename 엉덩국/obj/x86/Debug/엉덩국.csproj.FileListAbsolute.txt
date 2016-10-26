@@ -1,0 +1,97 @@
+c:\users\ksh\documents\visual studio 2010\Projects\엉덩국\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hero.xnb
+c:\users\ksh\documents\visual studio 2010\Projects\엉덩국\엉덩국\엉덩국\bin\x86\Debug\엉덩국.exe
+c:\users\ksh\documents\visual studio 2010\Projects\엉덩국\엉덩국\엉덩국\bin\x86\Debug\엉덩국.pdb
+c:\users\ksh\documents\visual studio 2010\Projects\엉덩국\엉덩국\엉덩국\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ksh\documents\visual studio 2010\Projects\엉덩국\엉덩국\엉덩국\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\ksh\documents\visual studio 2010\Projects\엉덩국\엉덩국\엉덩국\obj\x86\Debug\엉덩국.exe
+c:\users\ksh\documents\visual studio 2010\Projects\엉덩국\엉덩국\엉덩국\obj\x86\Debug\엉덩국.pdb
+C:\Users\SJ\Documents\네이트온 받은 파일\엉덩국\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hero.xnb
+C:\Users\SJ\Documents\네이트온 받은 파일\엉덩국\엉덩국\엉덩국\bin\x86\Debug\엉덩국.exe
+C:\Users\SJ\Documents\네이트온 받은 파일\엉덩국\엉덩국\엉덩국\bin\x86\Debug\엉덩국.pdb
+C:\Users\SJ\Documents\네이트온 받은 파일\엉덩국\엉덩국\엉덩국\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SJ\Documents\네이트온 받은 파일\엉덩국\엉덩국\엉덩국\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\SJ\Documents\네이트온 받은 파일\엉덩국\엉덩국\엉덩국\obj\x86\Debug\엉덩국.exe
+C:\Users\SJ\Documents\네이트온 받은 파일\엉덩국\엉덩국\엉덩국\obj\x86\Debug\엉덩국.pdb
+C:\Users\SJ\Documents\네이트온 받은 파일\엉덩국\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\pink.xnb
+C:\Users\SJ\Documents\네이트온 받은 파일\엉덩국\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\back.xnb
+C:\Users\SJ\Documents\네이트온 받은 파일\엉덩국\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog.xnb
+C:\Users\SJ\Documents\네이트온 받은 파일\엉덩국\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog2.xnb
+C:\Users\SJ\Documents\네이트온 받은 파일\엉덩국\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog3.xnb
+C:\Users\xnote\Documents\네이트온 받은 파일\엉덩국 (7)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hero.xnb
+C:\Users\xnote\Documents\네이트온 받은 파일\엉덩국 (7)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\pink.xnb
+C:\Users\xnote\Documents\네이트온 받은 파일\엉덩국 (7)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\back.xnb
+C:\Users\xnote\Documents\네이트온 받은 파일\엉덩국 (7)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog.xnb
+C:\Users\xnote\Documents\네이트온 받은 파일\엉덩국 (7)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog2.xnb
+C:\Users\xnote\Documents\네이트온 받은 파일\엉덩국 (7)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog3.xnb
+C:\Users\xnote\Documents\네이트온 받은 파일\엉덩국 (7)\엉덩국\엉덩국\bin\x86\Debug\엉덩국.exe
+C:\Users\xnote\Documents\네이트온 받은 파일\엉덩국 (7)\엉덩국\엉덩국\bin\x86\Debug\엉덩국.pdb
+C:\Users\xnote\Documents\네이트온 받은 파일\엉덩국 (7)\엉덩국\엉덩국\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xnote\Documents\네이트온 받은 파일\엉덩국 (7)\엉덩국\엉덩국\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\xnote\Documents\네이트온 받은 파일\엉덩국 (7)\엉덩국\엉덩국\obj\x86\Debug\엉덩국.exe
+C:\Users\xnote\Documents\네이트온 받은 파일\엉덩국 (7)\엉덩국\엉덩국\obj\x86\Debug\엉덩국.pdb
+C:\Users\xnote\Documents\네이트온 받은 파일\엉덩국 (7)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hero bat.xnb
+H:\엉덩국 bat\엉덩국\엉덩국\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\엉덩국 bat\엉덩국\엉덩국\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\엉덩국 bat\엉덩국\엉덩국\obj\x86\Debug\엉덩국.exe
+H:\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hero.xnb
+H:\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\pink.xnb
+H:\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\back.xnb
+H:\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog.xnb
+H:\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog2.xnb
+H:\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog3.xnb
+H:\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hero bat.xnb
+H:\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\엉덩국.exe
+H:\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\엉덩국.pdb
+H:\엉덩국 bat\엉덩국\엉덩국\obj\x86\Debug\엉덩국.pdb
+H:\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hero gun.xnb
+H:\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\cannonball.xnb
+H:\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hp.xnb
+H:\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\mp.xnb
+H:\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\gage.xnb
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hero.xnb
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\pink.xnb
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\back.xnb
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog.xnb
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog2.xnb
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog3.xnb
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hero bat.xnb
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hero gun.xnb
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\cannonball.xnb
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hp.xnb
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\mp.xnb
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\gage.xnb
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\엉덩국.exe
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\엉덩국.pdb
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\obj\x86\Debug\엉덩국.exe
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\obj\x86\Debug\엉덩국.pdb
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\PinkActing.xnb
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\PinkActingTest.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hero.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\pink.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\back.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog2.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog3.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hero bat.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hero gun.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\cannonball.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hp.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\mp.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\gage.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\PinkActing.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\PinkActingTest.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\엉덩국.exe
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\엉덩국.pdb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\obj\x86\Debug\엉덩국.exe
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\obj\x86\Debug\엉덩국.pdb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\menu.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\gameover.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\end.xnb
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\엉덩국.exe.manifest
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\엉덩국.application
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\obj\x86\Debug\엉덩국.exe.manifest
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\obj\x86\Debug\엉덩국.application

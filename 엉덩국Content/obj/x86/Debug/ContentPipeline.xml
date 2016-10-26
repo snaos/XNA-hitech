@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\hero.png</Source>
+      <Name>Sprites\hero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hero.xnb</Output>
+      <Time>2011-09-12T20:29:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\pink.png</Source>
+      <Name>Sprites\pink</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\pink.xnb</Output>
+      <Time>2011-11-09T07:58:00+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\back.png</Source>
+      <Name>Sprites\back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\back.xnb</Output>
+      <Time>2011-12-01T05:14:23.7973566+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\prolog.png</Source>
+      <Name>Sprites\prolog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog.xnb</Output>
+      <Time>2011-11-13T22:50:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\prolog2.png</Source>
+      <Name>Sprites\prolog2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog2.xnb</Output>
+      <Time>2011-11-13T22:34:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\prolog3.png</Source>
+      <Name>Sprites\prolog3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\prolog3.xnb</Output>
+      <Time>2011-11-13T22:16:26+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\hero bat.png</Source>
+      <Name>Sprites\hero bat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hero bat.xnb</Output>
+      <Time>2011-12-01T04:38:21.3216701+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\hero gun.png</Source>
+      <Name>Sprites\hero gun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hero gun.xnb</Output>
+      <Time>2011-12-01T04:52:49.5993327+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\cannonball.tga</Source>
+      <Name>Sprites\cannonball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\cannonball.xnb</Output>
+      <Time>2011-11-26T16:56:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\hp.png</Source>
+      <Name>Sprites\hp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\hp.xnb</Output>
+      <Time>2011-11-26T21:59:02+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mp.png</Source>
+      <Name>Sprites\mp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\mp.xnb</Output>
+      <Time>2011-11-26T21:59:02+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\gage.png</Source>
+      <Name>Sprites\gage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\gage.xnb</Output>
+      <Time>2011-12-01T04:13:37.7358138+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\PinkActing.png</Source>
+      <Name>Sprites\PinkActing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\PinkActing.xnb</Output>
+      <Time>2011-12-01T01:17:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\PinkActingTest.png</Source>
+      <Name>Sprites\PinkActingTest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\PinkActingTest.xnb</Output>
+      <Time>2011-12-01T01:17:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\menu.png</Source>
+      <Name>Sprites\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\menu.xnb</Output>
+      <Time>2011-12-01T05:18:36.3828037+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\gameover.png</Source>
+      <Name>Sprites\gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\gameover.xnb</Output>
+      <Time>2011-12-01T05:03:46.2838929+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\end.png</Source>
+      <Name>Sprites\end</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\Sprites\end.xnb</Output>
+      <Time>2011-12-01T05:37:49.3117474+09:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국Content\</RootDirectory>
+      <LoggerRootDirectory>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-23T05:28:23.586522+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

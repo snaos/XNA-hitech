@@ -1,0 +1,17 @@
+Content\Sprites\hero.xnb
+Content\Sprites\pink.xnb
+Content\Sprites\back.xnb
+Content\Sprites\prolog.xnb
+Content\Sprites\prolog2.xnb
+Content\Sprites\prolog3.xnb
+Content\Sprites\hero bat.xnb
+Content\Sprites\hero gun.xnb
+Content\Sprites\cannonball.xnb
+Content\Sprites\hp.xnb
+Content\Sprites\mp.xnb
+Content\Sprites\gage.xnb
+Content\Sprites\PinkActing.xnb
+Content\Sprites\PinkActingTest.xnb
+Content\Sprites\menu.xnb
+Content\Sprites\gameover.xnb
+Content\Sprites\end.xnb

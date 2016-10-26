@@ -1,0 +1,6 @@
+c:\users\ksh\documents\visual studio 2010\Projects\엉덩국\엉덩국\엉덩국Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SJ\Documents\네이트온 받은 파일\엉덩국\엉덩국\엉덩국Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xnote\Documents\네이트온 받은 파일\엉덩국 (7)\엉덩국\엉덩국Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\엉덩국 bat\엉덩국\엉덩국Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ksh\Desktop\엉덩국 bat\엉덩국\엉덩국Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\자료\넷터스\슈팅게임자료\엉덩국 bat(2)\엉덩국\엉덩국Content\obj\x86\Debug\ResolveAssemblyReference.cache
